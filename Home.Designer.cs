@@ -76,6 +76,7 @@
             // 
             // SalaryForm
             // 
+            this.SalaryForm.BackColor = System.Drawing.Color.Yellow;
             this.SalaryForm.Image = ((System.Drawing.Image)(resources.GetObject("SalaryForm.Image")));
             this.SalaryForm.Location = new System.Drawing.Point(494, 116);
             this.SalaryForm.Name = "SalaryForm";
